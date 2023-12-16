@@ -1,15 +1,8 @@
-h1 { 
-    color: blue;
-}
+<!--tekstivärien määritys-->
+p {
+    background-color: green;
+  }
 
-* {
-    color: brown
-}
 
-li{
-    color: purple
-}
 
-#punainen-kohta {
-    color: red;
-}
+
