@@ -1,1 +1,15 @@
-p { background-color: red; }
+h1 { 
+    color: blue;
+}
+
+* {
+    color: brown
+}
+
+li{
+    color: purple
+}
+
+#punainen-kohta {
+    color: red;
+}
